@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   return (
-    <div className="">
-      <p className="name">Arthur Menezes Correa</p>
+    <header className="header">
+      <p className="name">Arthur Menezes Corrêa</p>
       <hr className="lineHorizontal" />
       <nav className="headerNavegate">
         <Link to="/homePage">
@@ -30,7 +30,7 @@ function Header() {
           className="buttonNavegate"
           type="button"
         >
-          constato
+          Contato
         </button>
         </Link>
         <Link to="/curriculo">
@@ -42,7 +42,7 @@ function Header() {
         </button>
         </Link>
       </nav>
-    </div>
+    </header>
   );
 }
 
