@@ -1,3 +1,5 @@
+import './App.css'
+
 import { BrowserRouter, Route } from 'react-router-dom';
 import { About, HomePage, Contact, Curriculo, Header } from './components';
 

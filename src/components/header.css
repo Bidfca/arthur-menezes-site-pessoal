@@ -1,5 +1,5 @@
 .buttonNavegate {
-    background-color: #4CAF50; /* Green */
+    background-color: #99e2d8;
     border: 10px;
     color: white;
     padding: 15px 32px;
@@ -7,4 +7,10 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.name {
+  font-family: 'Comforter', cursive;
+}

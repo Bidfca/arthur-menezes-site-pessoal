@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   return (
-    <div>
-      <p>Arthur Menezes Correa</p>
+    <div className="">
+      <p className="name">Arthur Menezes Correa</p>
       <nav className="headerNavegate">
         <button
           className="buttonNavegate"
