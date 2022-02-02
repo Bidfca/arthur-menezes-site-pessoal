@@ -1,4 +1,4 @@
-import "./homePage.css"
+import "../css/homePage.css"
 
 import React from 'react';
 

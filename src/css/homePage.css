@@ -34,17 +34,16 @@
 .sectionBackgroundWhit{
   background-color: white;
   color: #333;
-  display: flex;
+  display: block;
   margin-top: 50px;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-bottom: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .imgBenjaminFranklin {
-  width: 120%;
+  width: 50%;
 }
 
 .fraseBenjaminFranklin {
-
+  
 }
