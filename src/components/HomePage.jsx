@@ -15,18 +15,7 @@ function HomePage() {
         alguma pergunta.
       </p>
       </section>
-      <section className="sectionBackgroundWhit">
-        <div>
-          <img 
-            src="https://www.refletirpararefletir.com.br/wp-content/uploads/2015/09/benja.jpg" 
-            className="imgBenjaminFranklin"
-            alt="benjamin franklin"
-          />
-        </div>
-        <div>
-          <p className="fraseBenjaminFranklin">Viver é enfrentar um problema atrás do outro. O modo como você o encara é que faz a diferença.</p>
-        </div>
-      </section>
+      
     </article>
   );
 }

@@ -1,7 +1,7 @@
 import './App.css'
 
 import { BrowserRouter, Route } from 'react-router-dom';
-import { About, HomePage, Contact, Curriculo, Header } from './components';
+import { About, HomePage, Contact, Curriculo, Header, Footer } from './components';
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
       <Route path="/contact" component={Contact} />
       <Route path="/curriculo" component={Curriculo} />
       </BrowserRouter>
+      <Footer />
     </div>
   );
 }
