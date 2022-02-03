@@ -1,0 +1,20 @@
+.footerAlign {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.imageLinkedin {
+  margin: 10px;
+  width: 30px;
+}
+
+.desenvolvedor {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
