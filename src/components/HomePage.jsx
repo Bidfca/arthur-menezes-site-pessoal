@@ -15,7 +15,22 @@ function HomePage() {
         alguma pergunta.
       </p>
       </section>
-      
+      <section className="sectionBackgroundWhit">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm">
+              <img 
+                src="https://www.refletirpararefletir.com.br/wp-content/uploads/2015/09/benja.jpg" 
+                className="imgBenjaminFranklin"
+                alt="benjamin franklin"
+              />
+            </div>
+            <div class="col-sm">
+              <p className="fraseBenjaminFranklin">Viver é enfrentar um problema atrás do outro. O modo como você o encara é que faz a diferença.</p>
+            </div>
+          </div>
+        </div>
+      </section>
     </article>
   );
 }
