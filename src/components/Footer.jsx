@@ -8,7 +8,7 @@ function Footer() {
       <div className="footerAlign">
         <a href="https://www.linkedin.com/in/arthur-m-correa/">
             <img 
-                src="https://images.vexels.com/media/users/3/131245/isolated/preview/9351735cd3a456e88ad876588ab9e503-logotipo-do-linkedin.png" 
+                src="https://pbs.twimg.com/media/FKxA_I7XoAYD01S?format=png&name=small" 
                 className="imageLinkedin"
                 alt="linkedin de Arthur Menezes"
             />

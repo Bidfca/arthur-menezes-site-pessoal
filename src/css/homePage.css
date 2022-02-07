@@ -41,12 +41,17 @@
 }
 
 .imgBenjaminFranklin {
-  background-color: rgb(15, 0, 71);
   float: right;
   width: 95%;
+  border-radius: 5px;
 }
 
 .fraseBenjaminFranklin {
   background-color: white;
   padding: auto;
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  margin:auto;
 }
