@@ -1,5 +1,26 @@
-.imageBoxCurriculo {
+.tituloCurriculo {
+    text-align: center;
+    margin: 50px;
+}
+
+.imageBoxCurriculoColunaDe3 {
     width: 50%;
+    margin: 30px;
+}
+
+.imageBoxCurriculoColunaDe2 {
+    width: 25%;
+    margin: 30px;
+}
+
+.imageCurriculoRedux {
+    width: 55%;
+    margin: 30px;
+}
+
+.imageCurriculoBootstrap{
+    width: 32%;
+    margin: 30px;
 }
 
 .boxCurriculo {
