@@ -15,7 +15,7 @@ function Footer() {
         </a>
         <a href="https://www.instagram.com/zebirote/">
         <img 
-                src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente8.png?resize=696%2C696&ssl=1" 
+                src="" 
                 className="imageLinkedin"
                 alt="instagram de arte pixelada"
             />
