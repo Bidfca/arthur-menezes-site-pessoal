@@ -155,12 +155,29 @@ function Curriculo() {
             <div className="boxCurriculo">
                 <img
                   className="imageBoxCurriculoColunaDe3"
-                  src="" 
-                  alt=""
+                  src="https://logospng.org/download/mysql/mysql-768.png"
+                  alt="MYSQL"
                 />
-                <h1></h1>
+                <h1>MYSQL</h1>
                 <p>
-                
+                  Banco de dados relacional, afinal de contas com tabelas fica mais facil de gerenciar.
+                </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+          <div className="boxCurriculo">
+                <img
+                  className="imageBoxCurriculoColunaDe1"
+                  src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" 
+                  alt="Sequelize"
+                />
+                <h1>Sequelize</h1>
+                <p>
+                  A junção entre, MySQL e Node.js.
                 </p>
             </div>
           </div>
