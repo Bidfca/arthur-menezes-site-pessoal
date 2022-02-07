@@ -7,7 +7,7 @@ function About() {
     <article className="alingItens">
       <div >
         <img 
-          src="https://media-exp1.licdn.com/dms/image/D4E35AQHLOg7VsBb5wA/profile-framedphoto-shrink_200_200/0/1634350908304?e=1643997600&v=beta&t=9E7UqZQADMsIkxLprWcYpgsDPnYCBlDK7c2FxQf5VNs" 
+          src="https://media-exp1.licdn.com/dms/image/C4E03AQEijMJv4DZ4QA/profile-displayphoto-shrink_800_800/0/1623719378200?e=1649894400&v=beta&t=ueKKsiuKgbuYmIebj-vRifcbkdRWKQzTn3nuXGj-ZPk" 
           className="imagePerfil"
           alt="foto de Arthur Menezes"
         />
@@ -21,7 +21,7 @@ function About() {
         </section>
         <section className="alingatinsLine">
           <img
-            src="https://thumbs.dreamstime.com/z/placa-de-chip-plugged-to-maternal-do-computador-parte-da-s%C3%A9rie-futurista-rob%C3%B3tico-e-da-ti-da-ci%C3%AAncia-de-%C3%ADcones-dos-88977528.jpg"
+            src="https://github.com/arthur-menezes202/arthur-menezes-site-pessoal/blob/master/src/imgens/cpu%20de%20um%20computador%20.png?raw=true"
             className="imageComputer"
             alt="desenho de um computador"
           />
@@ -37,7 +37,7 @@ function About() {
         </section>
         <section className="alingatinsLine">
           <img
-            src="https://pbs.twimg.com/media/FKsbuzWWYAM9jVA?format=png&name=240x240"
+            src="https://github.com/arthur-menezes202/arthur-menezes-site-pessoal/blob/master/src/imgens/casa%20no%20campo.png?raw=true"
             className="imageComputer"
             alt="pixel art feita por Arthur Menezes"
           />
