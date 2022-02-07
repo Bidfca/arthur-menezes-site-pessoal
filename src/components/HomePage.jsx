@@ -27,6 +27,7 @@ function HomePage() {
             </div>
             <div class="col-sm">
               <p className="fraseBenjaminFranklin">Viver é enfrentar um problema atrás do outro. O modo como você o encara é que faz a diferença.</p>
+              <p className="">Benjamin Franklin</p>
             </div>
           </div>
         </div>
