@@ -17,7 +17,7 @@ function About() {
       </div>
       <div>
         <section>
-          <p className="descriptionLife">‘Arthur, o menino destruidor’, essa é uma frase que costumava ouvir muito, eu sempre fui uma criança muito curiosa, e gosto de entender como as coisas funcionam, por isso, sempre que encontrava uma maquina ou um computador, procurava por ferramentar(muito bem escondidas) para desmontar e observar o que tinha dentro.</p>
+          <p className="descriptionLife">‘Arthur, o menino destruidor’, essa é uma frase que costumava ouvir muito, eu sempre fui uma criança muito curiosa, e gosto de entender como as coisas funcionam, por isso, sempre que encontrava uma maquina ou um computador, procurava por ferramentas(muito bem escondidas) para desmontar e observar o que tinha dentro.</p>
         </section>
         <section className="alingatinsLine">
           <img
