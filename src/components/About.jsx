@@ -20,12 +20,20 @@ function About() {
           <p className="descriptionLife">‘Arthur, o menino destruidor’, essa é uma frase que costumava ouvir muito, eu sempre fui uma criança muito curiosa, e gosto de entender como as coisas funcionam, por isso, sempre que encontrava uma maquina ou um computador, procurava por ferramentas(muito bem escondidas) para desmontar e observar o que tinha dentro.</p>
         </section>
         <section className="alingatinsLine">
-          <img
-            src="https://github.com/arthur-menezes202/arthur-menezes-site-pessoal/blob/master/src/imgens/cpu%20de%20um%20computador%20.png?raw=true"
-            className="imageComputer"
-            alt="desenho de um computador"
-          />
-          <p>Depois de alguns anos, sem entender o que era aquele cilindro preto em uma tabua verde, entrei para área de tecnologia, comecei estudando programação web básica, HTML, CSS, JS, elaborando sites bem feios, mas que funcionavam e cumpriam seu proposito, apos algum tempo, resolvi me aprofundar e me tornar um desenvolvedor Full Stack, honestamente, devo dizer que não sei se gosto mais de Front ou de Back end, as duas áreas são incríveis, e atuarei na área por mais alguns anos.</p>
+          <div className='container'>
+            <div className='row'>
+              <div className='col-sm'>
+                <img
+                  src="https://github.com/arthur-menezes202/arthur-menezes-site-pessoal/blob/master/src/imgens/cpu%20de%20um%20computador%20.png?raw=true"
+                  className="imageComputer"
+                  alt="desenho de um computador"
+                />
+              </div>
+              <div className='col-sm'>
+                <p>Depois de alguns anos, sem entender o que era aquele cilindro preto em uma tabua verde, entrei para área de tecnologia, comecei estudando programação web básica, HTML, CSS, JS, elaborando sites bem feios, mas que funcionavam e cumpriam seu proposito, apos algum tempo, resolvi me aprofundar e me tornar um desenvolvedor Full Stack, honestamente, devo dizer que não sei se gosto mais de Front ou de Back end, as duas áreas são incríveis, e atuarei na área por mais alguns anos.</p>
+              </div>
+            </div>
+          </div>
         </section>
         <section className="alingatinsLine">
           <img
