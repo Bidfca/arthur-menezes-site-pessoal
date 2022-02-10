@@ -15,7 +15,7 @@ function HomePage() {
         alguma pergunta.
       </p>
       </section>
-      <section className="sectionBackgroundWhit">
+      <section className="">
         <div class="container">
           <div class="row">
             <div class="col-sm">
@@ -27,6 +27,7 @@ function HomePage() {
             </div>
             <div class="col-sm">
               <p className="fraseBenjaminFranklin">Viver é enfrentar um problema atrás do outro. O modo como você o encara é que faz a diferença.</p>
+              <p className="fraseBenjaminFranklin">Benjamin Franklin</p>
             </div>
           </div>
         </div>
