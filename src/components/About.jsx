@@ -28,8 +28,7 @@ function About() {
                   className="imageComputer"
                   alt="desenho de um computador"
                 />
-              </div>
-              <div className='col-sm'>
+              
                 <p>Depois de alguns anos, sem entender o que era aquele cilindro preto em uma tabua verde, entrei para área de tecnologia, comecei estudando programação web básica, HTML, CSS, JS, elaborando sites bem feios, mas que funcionavam e cumpriam seu proposito, apos algum tempo, resolvi me aprofundar e me tornar um desenvolvedor Full Stack, honestamente, devo dizer que não sei se gosto mais de Front ou de Back end, as duas áreas são incríveis, e atuarei na área por mais alguns anos.</p>
               </div>
             </div>
