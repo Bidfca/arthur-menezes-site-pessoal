@@ -22,7 +22,7 @@ function Footer() {
         </a>
       </div>
       <div className="desenvolvedor">
-          <p>©2022 por Arthur Menezes Correa.</p>
+          <p>©2023 por Arthur Menezes Correa.</p>
       </div>
     </div>
   );
