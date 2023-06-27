@@ -6,7 +6,7 @@ import { About, HomePage, Contact, Curriculo, Header, Footer } from './component
 function App() {
   return (
     <div className="">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Route path="/" component={Header} />
       <Route path="/about" component={About} />
       <Route path="/homePage" component={HomePage} />
