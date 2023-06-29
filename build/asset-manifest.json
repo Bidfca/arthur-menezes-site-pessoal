@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arthur-menezes-site-pessoal/static/css/main.bf81981c.css",
+    "main.js": "/arthur-menezes-site-pessoal/static/js/main.40ec0b30.js",
+    "static/js/787.edf484fa.chunk.js": "/arthur-menezes-site-pessoal/static/js/787.edf484fa.chunk.js",
+    "index.html": "/arthur-menezes-site-pessoal/index.html",
+    "main.bf81981c.css.map": "/arthur-menezes-site-pessoal/static/css/main.bf81981c.css.map",
+    "main.40ec0b30.js.map": "/arthur-menezes-site-pessoal/static/js/main.40ec0b30.js.map",
+    "787.edf484fa.chunk.js.map": "/arthur-menezes-site-pessoal/static/js/787.edf484fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf81981c.css",
+    "static/js/main.40ec0b30.js"
+  ]
+}
