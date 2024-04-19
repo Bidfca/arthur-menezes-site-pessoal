@@ -1,8 +1,9 @@
 import '../css/footer.css'
 
-import React from 'react';
+import React, { useState } from 'react';
 
 function Footer() {
+  const [anoHoje] = useState(new Date().getFullYear());
   return (
     <div>
       <div className="footerAlign">
@@ -15,14 +16,14 @@ function Footer() {
         </a>
         <a href="https://www.instagram.com/zebirote/">
         <img 
-                src="https://github.com/arthur-menezes202/arthur-menezes-site-pessoal/blob/master/src/imgens/icone%20isntagram%20branco%20mais%20gro%C3%A7o.png?raw=true" 
-                className="imageLinkedin"
-                alt="instagram de arte pixelada"
+            src="https://github.com/arthur-menezes202/arthur-menezes-site-pessoal/blob/master/src/imgens/icone%20isntagram%20branco%20mais%20gro%C3%A7o.png?raw=true" 
+            className="imageLinkedin"
+            alt="instagram de arte pixelada"
             />
         </a>
       </div>
       <div className="desenvolvedor">
-          <p>©2022 por Arthur Menezes Correa.</p>
+          <p>©{anoHoje} por Arthur Menezes Correa.</p>
       </div>
     </div>
   );

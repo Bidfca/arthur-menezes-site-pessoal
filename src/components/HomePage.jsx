@@ -7,12 +7,9 @@ function HomePage() {
     <article className="">
       <section className="sectionInfo">
       <hr className="imageHomePage" />
-      <p className="developerPresentation">Apresentamos o Arthur Menezes Corrêa</p>
+      <p className="developerPresentation"></p>
       <p className="description">
-        Bem-vindo ao meu portefólio. Convido você a explorar o meu site para entender as minhas especialidades, 
-        técnicas e experiência profissional. Abaixo você encontrará uma mistura de trabalhos profissionais e de 
-        alguns projetos que fazem parte da minha paixão pessoal. Divirta-se navegando e entre em contato se tiver 
-        alguma pergunta.
+        Olá e bem-vindo ao meu portfólio! Entre e descubra o que torna meus projetos tão especiais. Estou ansioso para compartilhar meu trabalho e minha jornada criativa com você.
       </p>
       </section>
       <section className="">

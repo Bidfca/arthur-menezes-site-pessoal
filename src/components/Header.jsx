@@ -9,33 +9,33 @@ function Header() {
       <p className="name">Arthur Menezes Corrêa</p>
       <hr className="lineHorizontal" />
       <nav className="headerNavegate">
-        <Link to="/homePage">
+        <Link className="link-nav" to="/">
         <button
-          className="buttonNavegate"
+          className="button-63"
           type="button"
         >
           Home Page
         </button>
         </Link>
-        <Link to="/about">
+        <Link className="link-nav" to="/about">
         <button
-          className="buttonNavegate"
+          className="button-63"
           type="button"
         >
           Sobre
         </button>
         </Link>
-        <Link to="/contact">
+        <Link className="link-nav" to="/contact">
         <button
-          className="buttonNavegate"
+          className="button-63"
           type="button"
         >
           Contato
         </button>
         </Link>
-        <Link to="/curriculo">
+        <Link className="link-nav" to="/curriculo">
         <button
-          className="buttonNavegate"
+          className="button-63"
           type="button"
         >
           Curriculo

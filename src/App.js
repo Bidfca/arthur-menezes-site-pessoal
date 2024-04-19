@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="">
       <BrowserRouter>
-      <Route path="/" component={Header} />
+      <Header />
+      <Route path="/" exact component={HomePage} />
       <Route path="/about" component={About} />
-      <Route path="/homePage" component={HomePage} />
       <Route path="/contact" component={Contact} />
       <Route path="/curriculo" component={Curriculo} />
       </BrowserRouter>
